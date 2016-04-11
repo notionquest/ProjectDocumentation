@@ -1,0 +1,75 @@
+Team 1:
+09:00 AM Giant Digital Graffiti 60min
+10:00 AM Giant Puzzle Dinosaurs 30min
+10:30 AM New Zealand Haka 30min
+11:00 AM Salsa & Pickles sprint
+11:15 AM Enigma Challenge 45min
+12:00 PM Lunch Break 60min
+01:00 PM Monti Carlo or Bust 60min
+02:00 PM Time Tracker sprint
+02:15 PM Human Table Football 30min
+02:45 PM Archery 45min     
+03:30 PM Learning Magic Tricks 40min
+04:10 PM Wine Tasting sprint
+04:25 PM 2-wheeled Segways 45min
+05:00 PM Staff Motivation Presentation
+Team 2:
+09:00 AM Monti Carlo or Bust 60min
+10:00 AM Arduino Bonanza 30min
+10:30 AM Buggy Driving 30min
+11:00 AM Time Tracker sprint
+11:15 AM Indiano Drizzle 45min
+12:00 PM Lunch Break 60min
+01:00 PM Viking Axe Throwing 60min
+02:00 PM Wine Tasting sprint
+02:15 PM New Zealand Haka 30min
+02:45 PM Enigma Challenge 45min
+03:30 PM Learning Magic Tricks 40min
+04:10 PM Salsa & Pickles sprint
+04:25 PM Archery 45min     
+05:00 PM Staff Motivation Presentation
+Team 3:
+09:00 AM Digital Tresure Hunt 60min
+10:00 AM Buggy Driving 30min
+10:30 AM New Zealand Haka 30min
+11:00 AM Wine Tasting sprint
+11:15 AM 2-wheeled Segways 45min
+12:00 PM Lunch Break 60min
+01:00 PM Cricket 2020 60min
+02:00 PM Salsa & Pickles sprint
+02:15 PM Human Table Football 30min
+02:45 PM Enigma Challenge 45min
+03:30 PM Learning Magic Tricks 40min
+04:10 PM Time Tracker sprint
+04:25 PM Archery 45min     
+05:00 PM Staff Motivation Presentation
+Team 4:
+09:00 AM Viking Axe Throwing 60min
+10:00 AM Arduino Bonanza 30min
+10:30 AM New Zealand Haka 30min
+11:00 AM Salsa & Pickles sprint
+11:15 AM Archery 45min     
+12:00 PM Lunch Break 60min
+01:00 PM Giant Digital Graffiti 60min
+02:00 PM Time Tracker sprint
+02:15 PM Giant Puzzle Dinosaurs 30min
+02:45 PM Indiano Drizzle 45min
+03:30 PM Learning Magic Tricks 40min
+04:10 PM Wine Tasting sprint
+04:25 PM 2-wheeled Segways 45min
+05:00 PM Staff Motivation Presentation
+Team 5:
+09:00 AM Viking Axe Throwing 60min
+10:00 AM Giant Puzzle Dinosaurs 30min
+10:30 AM Human Table Football 30min
+11:00 AM Time Tracker sprint
+11:15 AM Indiano Drizzle 45min
+12:00 PM Lunch Break 60min
+01:00 PM Monti Carlo or Bust 60min
+02:00 PM Wine Tasting sprint
+02:15 PM Arduino Bonanza 30min
+02:45 PM Archery 45min     
+03:30 PM Learning Magic Tricks 40min
+04:10 PM Salsa & Pickles sprint
+04:25 PM Enigma Challenge 45min
+05:00 PM Staff Motivation Presentation
