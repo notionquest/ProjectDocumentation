@@ -1,0 +1,20 @@
+D:\Sampath\workspaces\workspace_java8_samples\ScalaCalculations>set PATH=D:\Samp
+ath\maven\apache-maven-3.3.3\bin
+
+set SCALA_HOME=D:\Program Files\scala\
+Set PATH=%PATH%;%SCALA_HOME%\bin
+
+scala ScalaCalculations-jar-with-dependencies.jar
+
+sys.exit
+
+D:\Sampath\workspaces\workspace_java8_samples\ScalaCalculations>mvn package asse
+mbly:single
+
+D:\Sampath\workspaces\workspace_java8_samples\ScalaCalculations>scala target\Sca
+laCalculations-jar-with-dependencies.jar
+
+http://davidb.github.io/scala-maven-plugin/example_java.html
+
+D:\Sampath\workspaces\workspace_java8_samples\ScalaCalculations>scala target\Sca
+laCalculations-jar-with-dependencies.jar
